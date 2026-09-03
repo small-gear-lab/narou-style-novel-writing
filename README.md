@@ -70,6 +70,7 @@ ln -s /path/to/narou-style-novel-writing /path/to/project/.claude/skills/narou-s
 
 ## ライセンス
 
-このリポジトリ自体のライセンスは未確定（現状はプライベート運用）。
-将来公開する場合は、上記クレジット元の MIT / Apache-2.0 との整合を
-確認のうえで決定する。
+Dual-licensed MIT / Apache-2.0（[LICENSE-MIT](LICENSE-MIT) /
+[LICENSE-APACHE](LICENSE-APACHE)、`ffmpeg-gif-optimizer` と同じ形式）。
+どちらか選べる形式で、上記クレジット元（MIT / Apache-2.0）とも
+ライセンス的に整合する。
